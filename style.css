@@ -198,15 +198,15 @@ button:hover {
 }
 
 .fc .fc-button{
-  background-color: #3c9195 !important;
-  border-color: #3c9195 !important;
-  color: #ffffff !important;
+  background-color: #c89c4d !important;
+  border-color: #c89c4d !important;
+  color: #22304A !important;
   font-weight: bold !important;
 }
 
 .fc .fc-button:hover {
-  background-color: #00d3dd !important;
-  border-color: #00d3dd !important;
+  background-color: #E6C35C !important;
+  border-color: #E6C35C !important;
 }
 
 .fc .fc-button:disabled{

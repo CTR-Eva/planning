@@ -55,18 +55,19 @@ h1 {
   cursor: pointer;
   font-weight: bold;
   font-size: 18px;
+  color: #22304A;
 }
 
 .week-day.active {
   background: #22304A !important;
-  color: black !important;
+  color: #c89c4d !important;
   font-weight: bold !important;
   font-size: 18px !important;
 }
 
 .week-day:hover {
   background: #22304A;
-  color: black;
+  color: #c89c4d;
   font-weight: bold !important;
   font-size: 18px;
 }
@@ -74,7 +75,7 @@ h1 {
 /* PLAYERS */
 .stats {
   margin-top: 20px;
-  background: #c89c4d;
+  background: #c89c4d !important;
   padding: 15px;
   border-radius: 10px;
   display: flex;

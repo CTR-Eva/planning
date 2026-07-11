@@ -102,13 +102,13 @@ h1 {
 }
 
 #eventsList .player-card{
-background: #ffa83b;
+background: #e6c35c;
     padding: 10px;
     margin: 5px 0;
     border-radius: 8px;
     display: grid;
     justify-content: space-evenly;
-    color: #000000;
+    color: #22304A;
     font-weight: bold;
     font-size: 18px;
     flex-direction: row;

@@ -178,7 +178,7 @@ button:hover {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #010c2c;
+  background-color: #22304a;
   color: #ffffff;
 }
 
@@ -196,7 +196,7 @@ button:hover {
 
 #modalPlayerName {
   font-weight: bold;
-  color: #020f2a;
+  color: #22304A;
 }
 
 .fc .fc-button{
@@ -226,7 +226,7 @@ button:hover {
 }
 
 .fc-h-event {
-  border: 5px solid #010c2c;
+  border: 5px solid #22304A;
   font-weight: 700;
   font-size: 14px;
 }
@@ -251,7 +251,7 @@ button:hover {
 }
 
 #eventModal .modal-content button {
-  background: #010c2c;
+  background: #22304A;
   color: white;
 }
 

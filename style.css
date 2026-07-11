@@ -102,7 +102,7 @@ h1 {
 }
 
 #eventsList .player-card{
-background: #e6c35c;
+background: #e6c35c !important;
     padding: 10px;
     margin: 5px 0;
     border-radius: 8px;
@@ -141,11 +141,11 @@ background: #e6c35c;
 }
 
 .modal-content {
-  background: #3c9195;
+  background: #c89c4d;
   padding: 20px;
   border-radius: 10px;
   width: 320px;
-  color: #020f2a;
+  color: #22304A;
   font-weight: bold;
 }
 

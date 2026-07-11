@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial;
-  background: #2563EB;
+  background: #ffffff;
   color: white;
 }
 
@@ -13,7 +13,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #FFD700;
+  color: ##c89c4d;
 }
 
 /* CALENDAR */
@@ -28,7 +28,7 @@ h1 {
 /* WEEK */
 .week-bar {
   margin-top: 15px;
-  background: #B8860B;
+  background: #c89c4d;
   padding: 12px;
   border-radius: 10px;
 }
@@ -49,7 +49,7 @@ h1 {
 }
 
 .week-day {
-  background: #2563EB;
+  background: #ffffff;
   padding: 8px 12px;
   border-radius: 6px;
   cursor: pointer;

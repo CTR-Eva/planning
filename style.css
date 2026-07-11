@@ -13,7 +13,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #00d3dd;
+  color: #FFD700;
 }
 
 /* CALENDAR */
@@ -28,7 +28,7 @@ h1 {
 /* WEEK */
 .week-bar {
   margin-top: 15px;
-  background: #1E40AF;
+  background: #FFD700;
   padding: 12px;
   border-radius: 10px;
 }

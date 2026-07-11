@@ -67,7 +67,7 @@ h1 {
 
 .week-day:hover {
   background: #22304A;
-  color: #c89c4d;
+  color: #c89c4d !important;
   font-weight: bold !important;
   font-size: 18px;
 }
